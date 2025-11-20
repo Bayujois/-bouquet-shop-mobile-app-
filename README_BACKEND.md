@@ -131,17 +131,8 @@ int count = await appState.getStockItemCount();
 
 Database otomatis diisi dengan data sampel:
 
-**Products:** 6 items
-- Rose Romance Bouquet ($45.99)
-- Lavender Dream ($32.50)
-- Sunflower Delight ($38.00)
-- Tulip Elegance ($42.00)
-- Orchid Paradise ($55.00)
-- Wildflower Mix ($28.00)
+**Products: user add own product with local storage or camera**
 
-**Materials:** 8 items
-- Red Roses, Lavender, Sunflowers, Tulips, Orchids
-- Silk Ribbon, Decorative Paper, Green Ribbon
 
 ## 🚀 Getting Started
 

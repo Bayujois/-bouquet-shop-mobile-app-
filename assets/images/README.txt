@@ -1,0 +1,1 @@
+Add product image PNG files here, e.g. rose_romance.png, lavender_dream.png, etc. Update database product imageUrl to corresponding asset path (assets/images/<file>).
